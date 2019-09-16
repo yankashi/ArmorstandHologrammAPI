@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArmorStandHologrammAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArmorStandHologrammAPI_jar</output-path>
+    <root id="archive" name="ArmorStandHologrammAPI.jar">
+      <element id="module-output" name="ArmorStandHologrammAPI" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/spigot-1.12.2 (1).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
